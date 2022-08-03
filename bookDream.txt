@@ -1,0 +1,15 @@
+x@ziHQ2r4D8k6
+
+
+- template + repository
+https://ckddn9496.tistory.com/102
+
+
+https://spring.io/blog/2021/11/29/spring-data-mongodb-relation-modelling
+
+https://docs.spring.io/spring-data/mongodb/docs/3.3.0/reference/html/#mapping-usage.document-references
+
+https://www.baeldung.com/spring-mongodb-dbref-annotation
+
+@Transactional
+https://www.baeldung.com/spring-data-mongodb-transactions
